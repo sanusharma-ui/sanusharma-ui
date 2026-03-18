@@ -7,7 +7,7 @@ I build AI-powered web apps, chatbots, automation tools and experimental search 
 
 ## Projects
 
-- King SpaceDeb – Space Debris Screening Engine
+- Space Debris Screening Engine
 - Multipersona - AI
 - ShadowChat - Messanging webapp
 - Telegram Bot
